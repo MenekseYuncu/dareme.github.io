@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.menekseync.dareme",
+      "sha256_cert_fingerprints": [
+        "65:31:36:3C:74:24:84:19:79:0F:1F:B6:C2:C0:72:9F:17:75:41:63:9C:B6:95:85:33:3E:36:C7:B3:26:13:5F"
+      ]
+    }
+  }
+]
